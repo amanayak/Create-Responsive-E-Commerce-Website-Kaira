@@ -1,5 +1,5 @@
 # 🔥 Build Kaira E-Commerce Responsive Website Design
-## [Live Preview](https://amanayak.github.io/Create-Responsive-E-Commerce-Website-Kaira)
+## [Live Preview](https://create-responsive-e-commerce-website-kaira.vercel.app/)
 ### 🔥 Build Kaira E-Commerce Responsive Website Design
 
 - Create Responsive E-Commerce Website with Kaira

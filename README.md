@@ -12,7 +12,6 @@
 
 ![preview img](/preview.png)
 
-
 ## RIGHTS
 You are allowed to use it in your personal projects and commercial projects.
 
